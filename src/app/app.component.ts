@@ -15,5 +15,5 @@ export class AppComponent {
   }
 }
 interface Animal {
-  name: string;
+  name?: string;
 }
